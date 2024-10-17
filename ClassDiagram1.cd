@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Mario.Mario">
+    <Position X="7.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AARABEEAAIAAACAEAAAgCwkAAAAAAEAoAAAAFIAAIAA=</HashCode>
+      <FileName>Mario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mario.SmallMario">
+    <Position X="17.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAAAAAAgAQAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>SmallMario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Mario.SuperMario">
+    <Position X="11.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAgAQAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>SuperMario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Mario.FireMario">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAgAQAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>FireMario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Mario.CapeMario">
+    <Position X="13.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAgAQAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>CapeMario.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="Mario.IState">
+    <Position X="4.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAgAQAAAAAAAEAIAAAAAAAAAAA=</HashCode>
+      <FileName>IState.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Mario.MarioState">
+    <Position X="11.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAACAAAAAAABA=</HashCode>
+      <FileName>MarioState.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Mario.Collectables">
+    <Position X="2.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Collectables.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
